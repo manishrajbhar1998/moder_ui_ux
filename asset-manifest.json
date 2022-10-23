@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moder_ui_ux/static/css/main.21ca85c1.css",
+    "main.js": "/moder_ui_ux/static/js/main.1ede5706.js",
+    "index.html": "/moder_ui_ux/index.html",
+    "main.21ca85c1.css.map": "/moder_ui_ux/static/css/main.21ca85c1.css.map",
+    "main.1ede5706.js.map": "/moder_ui_ux/static/js/main.1ede5706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ca85c1.css",
+    "static/js/main.1ede5706.js"
+  ]
+}
